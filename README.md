@@ -22,9 +22,10 @@
 - Innovative Java-based Applications  
 
 ## 📫 Connect With Me
-- 📧 Email: [sridhareswar3@gmail.com](mailto:sridhareswar3@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sridhar-e-15a8a922a](https://www.linkedin.com/in/sridhar-e-15a8a922a/)
-- 🐙 GitHub: [github.com/sridhar8642](https://github.com/sridhar8642)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridhareswar3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhar-e-15a8a922a/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sridhar8642)
 
 ---
 
