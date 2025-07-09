@@ -4,19 +4,14 @@
   <samp>
     Hi, I'm <strong>Sridhar E</strong> 👋<br>
     A passionate developer and tech enthusiast from India 🇮🇳<br>
-    Recent B.Tech graduate in Information Technology.
+    B.Tech graduate in Information Technology.
   </samp>
   <br><br>
   <img src="https://github.com/sridhar8642/sridhar8642/blob/d25a78a9307f1275f5593b4ace047ff98e3c0e73/hollor_knight3.gif" width="200"/>
 </p>
 
 ---
-
-## 🌱 Currently Learning
-- Full Stack Development  
-- Advanced Java & Spring Boot  
-- Docker & DevOps Basics  
-
+ 
 ## 🤝 Looking to Collaborate On
 - Open Source Projects   
 - Innovative Java-based Applications  
