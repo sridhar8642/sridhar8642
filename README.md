@@ -13,8 +13,7 @@
 ---
  
 ## 🤝 Looking to Collaborate On
-- Open Source Projects   
-- Innovative Java-based Applications  
+- Open Source Projects     
 
 ## 📫 Connect With Me
 
